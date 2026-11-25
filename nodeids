@@ -1,0 +1,12 @@
+[
+  "tests/test_backend.py::test_app_redirect_unauthenticated",
+  "tests/test_backend.py::test_duplicate_email",
+  "tests/test_backend.py::test_health",
+  "tests/test_backend.py::test_ocr_price_parser",
+  "tests/test_backend.py::test_price_comparison",
+  "tests/test_backend.py::test_register_and_login",
+  "tests/test_backend.py::test_simulated_analysis",
+  "tests/test_backend.py::test_trust_score_all_found",
+  "tests/test_backend.py::test_trust_score_full_clear",
+  "tests/test_backend.py::test_wrong_password"
+]
